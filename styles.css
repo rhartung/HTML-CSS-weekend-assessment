@@ -1,0 +1,29 @@
+/*CSS Styling for all html/flask templates*/
+
+.yellow {
+    background-color: #fff499;
+}
+
+#lastname {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    }
+
+h4 {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #28b4ff;
+    padding: 5px;
+    text-align: center;
+}
+
+.centered{
+    text-align: center;
+}
